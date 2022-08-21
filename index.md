@@ -4,4 +4,4 @@
 
 [PetitSouris%](./petitsouris.md)
 
-[_zyINF%](./_zyinf.md)
+[_zyINF%](./zyinf.md)
