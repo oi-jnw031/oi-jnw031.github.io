@@ -3,3 +3,5 @@
 ---
 
 ### %%% [PetitSouris](https://www.luogu.com.cn/user/288866)
+
+[←返回](./index.md)
