@@ -1,4 +1,6 @@
-## PetitSouris 膜拜列表
+## <center>PetitSouris 膜拜列表</center>
+
+---
 
 ### %%% [jiangbowen | lgvc](https://www.luogu.com.cn/user/366807)
 
