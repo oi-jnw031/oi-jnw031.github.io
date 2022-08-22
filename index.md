@@ -1,7 +1,5 @@
-## <center>膜拜列表</center>
+## <center>jnw031 OI road</center>
 
 ---
 
-[PetitSouris%](./petitsouris.md)
-
-[_zyINF%](./zyinf.md)
+[C++](./cpp.html)
